@@ -1,0 +1,13 @@
+/*
+ * atecc508a_key_management.h
+ *
+ *  Created on: Dec 9, 2024
+ *      Author: zalma
+ */
+
+#ifndef ATECC508A_OPERATIONS_ATECC508A_KEY_MANAGEMENT_H_
+#define ATECC508A_OPERATIONS_ATECC508A_KEY_MANAGEMENT_H_
+
+
+
+#endif /* ATECC508A_OPERATIONS_ATECC508A_KEY_MANAGEMENT_H_ */
