@@ -5,6 +5,6 @@
 #include <stddef.h>
 
 // Function to calculate CRC-16
-uint16_t calculate_crc(const uint8_t *data, size_t length);
+uint16_t ComputeCRC16(const uint8_t *data, size_t length);
 
 #endif

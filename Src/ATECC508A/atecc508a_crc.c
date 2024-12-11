@@ -1,23 +1,29 @@
 #include "ATECC508A/atecc508a_crc.h"
 
-uint16_t calculate_crc(const uint8_t *data, size_t length)
+/* CRC-16 Polynomial: 0x8005
+ * 					  0b1000 0000 0000 0101
+ *
+ * */
+
+uint16_t ComputeCRC16(const uint8_t *data, size_t length)
 {
-    uint16_t crc = 0x0000; // Initial value
+    uint16_t CRC = 0x0000; // Initial value
     uint8_t bit;
 
     for (size_t i = 0; i < length; i++)
     {
-        crc ^= (uint16_t)data[i] << 8;
+    	CRC ^= (uint16_t)data[i] << 8;
 
         for (bit = 0; bit < 8; bit++)
         {
-            if (crc & 0x8000)
+        	// Check if MSB is set
+            if (CRC & 0x8000)
             {
-                crc = (crc << 1) ^ 0x8005;
+            	CRC = (crc << 1) ^ 0x8005;
             }
             else
             {
-                crc = crc << 1;
+            	CRC = crc << 1;
             }
         }
     }
