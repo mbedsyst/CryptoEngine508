@@ -2,12 +2,12 @@
 
 /* CRC-16 Polynomial: 0x8005
  * 					  0b1000 0000 0000 0101
- *
  * */
 
 uint16_t ComputeCRC16(const uint8_t *data, size_t length)
 {
-    uint16_t CRC = 0x0000; // Initial value
+	 // Initial value of the CRC code
+    uint16_t CRC = 0x0000;
     uint8_t bit;
 
     for (size_t i = 0; i < length; i++)
@@ -19,6 +19,7 @@ uint16_t ComputeCRC16(const uint8_t *data, size_t length)
         	// Check if MSB is set
             if (CRC & 0x8000)
             {
+
             	CRC = (crc << 1) ^ 0x8005;
             }
             else
@@ -28,5 +29,5 @@ uint16_t ComputeCRC16(const uint8_t *data, size_t length)
         }
     }
 
-    return crc;
+    return CRC;
 }
