@@ -1,0 +1,2 @@
+../Src/ATECC508A/atecc508a_utility.c:6:5:WriteCommand	24	static
+../Src/ATECC508A/atecc508a_utility.c:24:5:ReadResponse	32	static

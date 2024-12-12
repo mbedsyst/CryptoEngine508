@@ -11,7 +11,8 @@ RM := rm -rf
 -include sources.mk
 -include Startup/subdir.mk
 -include Src/Drivers/subdir.mk
--include Src/CryptoEngine/subdir.mk
+-include Src/ATECC508A/operations/subdir.mk
+-include Src/ATECC508A/subdir.mk
 -include Src/subdir.mk
 -include objects.mk
 

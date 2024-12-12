@@ -30,14 +30,14 @@ int ATECC508A_GenerateRandom(uint8_t *random_number)
     };
 
     size_t packet_size;
-    uint8_t *packet_data = stuff_packet(&random_packet, &packet_size);
+    uint8_t *packet_data = StuffPacket(&random_packet, &packet_size);
     if (!packet_data)
     {
         return -2;
     }
 
     size_t group_size;
-    uint8_t *group_data = stuff_group(packet_data, packet_size, &group_size);
+    uint8_t *group_data = StuffGroup(packet_data, packet_size, &group_size);
     free(packet_data);
 
     if (!group_data)

@@ -2,6 +2,12 @@ Archive member included to satisfy reference by file (symbol)
 
 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
                               C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+                              ./Src/ATECC508A/atecc508a_group.o (malloc)
+C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                              C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o) (_malloc_r)
+C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+                              C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o) (__malloc_lock)
 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
                               C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o) (__stdio_exit_handler)
 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fwalk.o)
@@ -15,11 +21,13 @@ C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.external
 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
                               C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-closer.o) (errno)
 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
-                              C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o) (_impure_ptr)
+                              C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o) (_impure_ptr)
 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lseekr.o)
                               C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o) (_lseek_r)
 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
                               C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o) (_read_r)
+C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+                              C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
                               C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-stdio.o) (_write_r)
 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-errno.o)
@@ -28,16 +36,12 @@ C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.external
                               C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
                               C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+                              ./Src/ATECC508A/atecc508a_packet.o (memcpy)
 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
-                              C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o) (_free_r)
-C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
-                              C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o) (_malloc_r)
-C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
-                              C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o) (__malloc_lock)
+                              C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o) (_free_r)
 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
                               C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o) (_fflush_r)
-C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
-                              C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
 
 Discarded input sections
 
@@ -53,36 +57,428 @@ Discarded input sections
  .ARM.exidx     0x00000000       0x10 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
  .ARM.attributes
                 0x00000000       0x20 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
- .group         0x00000000        0xc ./Src/CryptoEngine/CMD.o
- .text          0x00000000        0x0 ./Src/CryptoEngine/CMD.o
- .data          0x00000000        0x0 ./Src/CryptoEngine/CMD.o
- .bss           0x00000000        0x0 ./Src/CryptoEngine/CMD.o
- .debug_info    0x00000000       0x22 ./Src/CryptoEngine/CMD.o
- .debug_abbrev  0x00000000       0x12 ./Src/CryptoEngine/CMD.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a.o
+ .text          0x00000000        0x0 ./Src/ATECC508A/atecc508a.o
+ .data          0x00000000        0x0 ./Src/ATECC508A/atecc508a.o
+ .bss           0x00000000        0x0 ./Src/ATECC508A/atecc508a.o
+ .debug_info    0x00000000       0x22 ./Src/ATECC508A/atecc508a.o
+ .debug_abbrev  0x00000000       0x12 ./Src/ATECC508A/atecc508a.o
  .debug_aranges
-                0x00000000       0x18 ./Src/CryptoEngine/CMD.o
- .debug_macro   0x00000000       0x1b ./Src/CryptoEngine/CMD.o
- .debug_macro   0x00000000      0xaa8 ./Src/CryptoEngine/CMD.o
- .debug_line    0x00000000       0x57 ./Src/CryptoEngine/CMD.o
- .debug_str     0x00000000     0x2dfe ./Src/CryptoEngine/CMD.o
- .comment       0x00000000       0x44 ./Src/CryptoEngine/CMD.o
+                0x00000000       0x18 ./Src/ATECC508A/atecc508a.o
+ .debug_macro   0x00000000       0x11 ./Src/ATECC508A/atecc508a.o
+ .debug_macro   0x00000000      0xaa8 ./Src/ATECC508A/atecc508a.o
+ .debug_line    0x00000000       0x3d ./Src/ATECC508A/atecc508a.o
+ .debug_str     0x00000000     0x2dec ./Src/ATECC508A/atecc508a.o
+ .comment       0x00000000       0x44 ./Src/ATECC508A/atecc508a.o
  .ARM.attributes
-                0x00000000       0x34 ./Src/CryptoEngine/CMD.o
- .group         0x00000000        0xc ./Src/CryptoEngine/GRP.o
- .text          0x00000000        0x0 ./Src/CryptoEngine/GRP.o
- .data          0x00000000        0x0 ./Src/CryptoEngine/GRP.o
- .bss           0x00000000        0x0 ./Src/CryptoEngine/GRP.o
- .debug_info    0x00000000       0x22 ./Src/CryptoEngine/GRP.o
- .debug_abbrev  0x00000000       0x12 ./Src/CryptoEngine/GRP.o
+                0x00000000       0x34 ./Src/ATECC508A/atecc508a.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_comm.o
+ .text          0x00000000        0x0 ./Src/ATECC508A/atecc508a_comm.o
+ .data          0x00000000        0x0 ./Src/ATECC508A/atecc508a_comm.o
+ .bss           0x00000000        0x0 ./Src/ATECC508A/atecc508a_comm.o
+ .debug_info    0x00000000       0x22 ./Src/ATECC508A/atecc508a_comm.o
+ .debug_abbrev  0x00000000       0x12 ./Src/ATECC508A/atecc508a_comm.o
  .debug_aranges
-                0x00000000       0x18 ./Src/CryptoEngine/GRP.o
- .debug_macro   0x00000000       0x1b ./Src/CryptoEngine/GRP.o
- .debug_macro   0x00000000      0xaa8 ./Src/CryptoEngine/GRP.o
- .debug_line    0x00000000       0x57 ./Src/CryptoEngine/GRP.o
- .debug_str     0x00000000     0x2dfe ./Src/CryptoEngine/GRP.o
- .comment       0x00000000       0x44 ./Src/CryptoEngine/GRP.o
+                0x00000000       0x18 ./Src/ATECC508A/atecc508a_comm.o
+ .debug_macro   0x00000000       0x11 ./Src/ATECC508A/atecc508a_comm.o
+ .debug_macro   0x00000000      0xaa8 ./Src/ATECC508A/atecc508a_comm.o
+ .debug_line    0x00000000       0x42 ./Src/ATECC508A/atecc508a_comm.o
+ .debug_str     0x00000000     0x2df1 ./Src/ATECC508A/atecc508a_comm.o
+ .comment       0x00000000       0x44 ./Src/ATECC508A/atecc508a_comm.o
  .ARM.attributes
-                0x00000000       0x34 ./Src/CryptoEngine/GRP.o
+                0x00000000       0x34 ./Src/ATECC508A/atecc508a_comm.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_commands.o
+ .text          0x00000000        0x0 ./Src/ATECC508A/atecc508a_commands.o
+ .data          0x00000000        0x0 ./Src/ATECC508A/atecc508a_commands.o
+ .bss           0x00000000        0x0 ./Src/ATECC508A/atecc508a_commands.o
+ .debug_info    0x00000000       0x22 ./Src/ATECC508A/atecc508a_commands.o
+ .debug_abbrev  0x00000000       0x12 ./Src/ATECC508A/atecc508a_commands.o
+ .debug_aranges
+                0x00000000       0x18 ./Src/ATECC508A/atecc508a_commands.o
+ .debug_macro   0x00000000       0x11 ./Src/ATECC508A/atecc508a_commands.o
+ .debug_macro   0x00000000      0xaa8 ./Src/ATECC508A/atecc508a_commands.o
+ .debug_line    0x00000000       0x46 ./Src/ATECC508A/atecc508a_commands.o
+ .debug_str     0x00000000     0x2df5 ./Src/ATECC508A/atecc508a_commands.o
+ .comment       0x00000000       0x44 ./Src/ATECC508A/atecc508a_commands.o
+ .ARM.attributes
+                0x00000000       0x34 ./Src/ATECC508A/atecc508a_commands.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_crc.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_crc.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_crc.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_crc.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_crc.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_crc.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_crc.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_crc.o
+ .text          0x00000000        0x0 ./Src/ATECC508A/atecc508a_crc.o
+ .data          0x00000000        0x0 ./Src/ATECC508A/atecc508a_crc.o
+ .bss           0x00000000        0x0 ./Src/ATECC508A/atecc508a_crc.o
+ .text.ComputeCRC16
+                0x00000000       0x7c ./Src/ATECC508A/atecc508a_crc.o
+ .debug_info    0x00000000      0x126 ./Src/ATECC508A/atecc508a_crc.o
+ .debug_abbrev  0x00000000       0x96 ./Src/ATECC508A/atecc508a_crc.o
+ .debug_aranges
+                0x00000000       0x20 ./Src/ATECC508A/atecc508a_crc.o
+ .debug_rnglists
+                0x00000000       0x13 ./Src/ATECC508A/atecc508a_crc.o
+ .debug_macro   0x00000000       0x76 ./Src/ATECC508A/atecc508a_crc.o
+ .debug_macro   0x00000000      0xaa8 ./Src/ATECC508A/atecc508a_crc.o
+ .debug_macro   0x00000000       0x22 ./Src/ATECC508A/atecc508a_crc.o
+ .debug_macro   0x00000000       0x8e ./Src/ATECC508A/atecc508a_crc.o
+ .debug_macro   0x00000000       0x51 ./Src/ATECC508A/atecc508a_crc.o
+ .debug_macro   0x00000000      0x103 ./Src/ATECC508A/atecc508a_crc.o
+ .debug_macro   0x00000000       0x6a ./Src/ATECC508A/atecc508a_crc.o
+ .debug_macro   0x00000000      0x1df ./Src/ATECC508A/atecc508a_crc.o
+ .debug_macro   0x00000000      0x189 ./Src/ATECC508A/atecc508a_crc.o
+ .debug_line    0x00000000      0x495 ./Src/ATECC508A/atecc508a_crc.o
+ .debug_str     0x00000000     0x40c7 ./Src/ATECC508A/atecc508a_crc.o
+ .comment       0x00000000       0x44 ./Src/ATECC508A/atecc508a_crc.o
+ .debug_frame   0x00000000       0x38 ./Src/ATECC508A/atecc508a_crc.o
+ .ARM.attributes
+                0x00000000       0x34 ./Src/ATECC508A/atecc508a_crc.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_group.o
+ .text          0x00000000        0x0 ./Src/ATECC508A/atecc508a_group.o
+ .data          0x00000000        0x0 ./Src/ATECC508A/atecc508a_group.o
+ .bss           0x00000000        0x0 ./Src/ATECC508A/atecc508a_group.o
+ .text.StuffGroup
+                0x00000000       0x9c ./Src/ATECC508A/atecc508a_group.o
+ .debug_info    0x00000000      0x177 ./Src/ATECC508A/atecc508a_group.o
+ .debug_abbrev  0x00000000       0xcd ./Src/ATECC508A/atecc508a_group.o
+ .debug_aranges
+                0x00000000       0x20 ./Src/ATECC508A/atecc508a_group.o
+ .debug_rnglists
+                0x00000000       0x14 ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000      0x150 ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000      0xaa8 ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000       0x22 ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000       0x8e ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000       0x51 ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000      0x103 ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000       0x6a ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000      0x1df ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000      0x189 ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000       0x2a ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000       0x61 ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000       0x43 ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000       0x34 ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000       0x16 ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000       0x35 ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000       0x16 ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000       0x43 ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000       0x34 ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000       0x10 ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000       0x58 ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000       0x8e ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000       0x1c ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000      0x177 ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000      0x369 ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000       0x16 ./Src/ATECC508A/atecc508a_group.o
+ .debug_macro   0x00000000       0x29 ./Src/ATECC508A/atecc508a_group.o
+ .debug_line    0x00000000      0x621 ./Src/ATECC508A/atecc508a_group.o
+ .debug_str     0x00000000     0x72f8 ./Src/ATECC508A/atecc508a_group.o
+ .comment       0x00000000       0x44 ./Src/ATECC508A/atecc508a_group.o
+ .debug_frame   0x00000000       0x34 ./Src/ATECC508A/atecc508a_group.o
+ .ARM.attributes
+                0x00000000       0x34 ./Src/ATECC508A/atecc508a_group.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_packet.o
+ .text          0x00000000        0x0 ./Src/ATECC508A/atecc508a_packet.o
+ .data          0x00000000        0x0 ./Src/ATECC508A/atecc508a_packet.o
+ .bss           0x00000000        0x0 ./Src/ATECC508A/atecc508a_packet.o
+ .text.StuffPacket
+                0x00000000       0x86 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_info    0x00000000      0x1ad ./Src/ATECC508A/atecc508a_packet.o
+ .debug_abbrev  0x00000000       0xd8 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_aranges
+                0x00000000       0x20 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_rnglists
+                0x00000000       0x14 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000      0x172 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000      0xaa8 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000       0x22 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000       0x8e ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000       0x51 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000      0x103 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000       0x6a ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000      0x1df ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000      0x189 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000       0x2a ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000       0x61 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000       0x43 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000       0x34 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000       0x16 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000       0x35 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000       0x16 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000       0x43 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000       0x34 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000       0x10 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000       0x58 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000       0x8e ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000       0x1c ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000      0x177 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000      0x369 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000       0x16 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000       0x29 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000       0x16 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_macro   0x00000000       0x20 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_line    0x00000000      0x634 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_str     0x00000000     0x7364 ./Src/ATECC508A/atecc508a_packet.o
+ .comment       0x00000000       0x44 ./Src/ATECC508A/atecc508a_packet.o
+ .debug_frame   0x00000000       0x34 ./Src/ATECC508A/atecc508a_packet.o
+ .ARM.attributes
+                0x00000000       0x34 ./Src/ATECC508A/atecc508a_packet.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_utility.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_utility.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_utility.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_utility.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_utility.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_utility.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_utility.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_utility.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_utility.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_utility.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_utility.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_utility.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_utility.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_utility.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_utility.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_utility.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_utility.o
+ .group         0x00000000        0xc ./Src/ATECC508A/atecc508a_utility.o
+ .text          0x00000000        0x0 ./Src/ATECC508A/atecc508a_utility.o
+ .data          0x00000000        0x0 ./Src/ATECC508A/atecc508a_utility.o
+ .bss           0x00000000        0x0 ./Src/ATECC508A/atecc508a_utility.o
+ .text.WriteCommand
+                0x00000000       0x58 ./Src/ATECC508A/atecc508a_utility.o
+ .text.ReadResponse
+                0x00000000       0x58 ./Src/ATECC508A/atecc508a_utility.o
+ .debug_info    0x00000000      0x183 ./Src/ATECC508A/atecc508a_utility.o
+ .debug_abbrev  0x00000000       0xe1 ./Src/ATECC508A/atecc508a_utility.o
+ .debug_aranges
+                0x00000000       0x28 ./Src/ATECC508A/atecc508a_utility.o
+ .debug_rnglists
+                0x00000000       0x19 ./Src/ATECC508A/atecc508a_utility.o
+ .debug_macro   0x00000000       0xfa ./Src/ATECC508A/atecc508a_utility.o
+ .debug_macro   0x00000000      0xaa8 ./Src/ATECC508A/atecc508a_utility.o
+ .debug_macro   0x00000000       0x22 ./Src/ATECC508A/atecc508a_utility.o
+ .debug_macro   0x00000000       0x8e ./Src/ATECC508A/atecc508a_utility.o
+ .debug_macro   0x00000000       0x51 ./Src/ATECC508A/atecc508a_utility.o
+ .debug_macro   0x00000000      0x103 ./Src/ATECC508A/atecc508a_utility.o
+ .debug_macro   0x00000000       0x6a ./Src/ATECC508A/atecc508a_utility.o
+ .debug_macro   0x00000000      0x1df ./Src/ATECC508A/atecc508a_utility.o
+ .debug_macro   0x00000000      0x189 ./Src/ATECC508A/atecc508a_utility.o
+ .debug_macro   0x00000000       0x22 ./Src/ATECC508A/atecc508a_utility.o
+ .debug_macro   0x00000000       0x2e ./Src/ATECC508A/atecc508a_utility.o
+ .debug_macro   0x00000000       0x28 ./Src/ATECC508A/atecc508a_utility.o
+ .debug_macro   0x00000000       0x1c ./Src/ATECC508A/atecc508a_utility.o
+ .debug_macro   0x00000000       0x22 ./Src/ATECC508A/atecc508a_utility.o
+ .debug_macro   0x00000000       0xfb ./Src/ATECC508A/atecc508a_utility.o
+ .debug_macro   0x00000000     0x1011 ./Src/ATECC508A/atecc508a_utility.o
+ .debug_macro   0x00000000      0x11f ./Src/ATECC508A/atecc508a_utility.o
+ .debug_macro   0x00000000     0xb86c ./Src/ATECC508A/atecc508a_utility.o
+ .debug_macro   0x00000000       0x6d ./Src/ATECC508A/atecc508a_utility.o
+ .debug_line    0x00000000      0x5d5 ./Src/ATECC508A/atecc508a_utility.o
+ .debug_str     0x00000000    0x4fb8b ./Src/ATECC508A/atecc508a_utility.o
+ .comment       0x00000000       0x44 ./Src/ATECC508A/atecc508a_utility.o
+ .debug_frame   0x00000000       0x5c ./Src/ATECC508A/atecc508a_utility.o
+ .ARM.attributes
+                0x00000000       0x34 ./Src/ATECC508A/atecc508a_utility.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_crypto.o
+ .text          0x00000000        0x0 ./Src/ATECC508A/operations/atecc508a_crypto.o
+ .data          0x00000000        0x0 ./Src/ATECC508A/operations/atecc508a_crypto.o
+ .bss           0x00000000        0x0 ./Src/ATECC508A/operations/atecc508a_crypto.o
+ .debug_info    0x00000000       0x22 ./Src/ATECC508A/operations/atecc508a_crypto.o
+ .debug_abbrev  0x00000000       0x12 ./Src/ATECC508A/operations/atecc508a_crypto.o
+ .debug_aranges
+                0x00000000       0x18 ./Src/ATECC508A/operations/atecc508a_crypto.o
+ .debug_macro   0x00000000       0x11 ./Src/ATECC508A/operations/atecc508a_crypto.o
+ .debug_macro   0x00000000      0xaa8 ./Src/ATECC508A/operations/atecc508a_crypto.o
+ .debug_line    0x00000000       0x4f ./Src/ATECC508A/operations/atecc508a_crypto.o
+ .debug_str     0x00000000     0x2dfe ./Src/ATECC508A/operations/atecc508a_crypto.o
+ .comment       0x00000000       0x44 ./Src/ATECC508A/operations/atecc508a_crypto.o
+ .ARM.attributes
+                0x00000000       0x34 ./Src/ATECC508A/operations/atecc508a_crypto.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_device_ops.o
+ .text          0x00000000        0x0 ./Src/ATECC508A/operations/atecc508a_device_ops.o
+ .data          0x00000000        0x0 ./Src/ATECC508A/operations/atecc508a_device_ops.o
+ .bss           0x00000000        0x0 ./Src/ATECC508A/operations/atecc508a_device_ops.o
+ .debug_info    0x00000000       0x22 ./Src/ATECC508A/operations/atecc508a_device_ops.o
+ .debug_abbrev  0x00000000       0x12 ./Src/ATECC508A/operations/atecc508a_device_ops.o
+ .debug_aranges
+                0x00000000       0x18 ./Src/ATECC508A/operations/atecc508a_device_ops.o
+ .debug_macro   0x00000000       0x11 ./Src/ATECC508A/operations/atecc508a_device_ops.o
+ .debug_macro   0x00000000      0xaa8 ./Src/ATECC508A/operations/atecc508a_device_ops.o
+ .debug_line    0x00000000       0x53 ./Src/ATECC508A/operations/atecc508a_device_ops.o
+ .debug_str     0x00000000     0x2e02 ./Src/ATECC508A/operations/atecc508a_device_ops.o
+ .comment       0x00000000       0x44 ./Src/ATECC508A/operations/atecc508a_device_ops.o
+ .ARM.attributes
+                0x00000000       0x34 ./Src/ATECC508A/operations/atecc508a_device_ops.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_encryption.o
+ .text          0x00000000        0x0 ./Src/ATECC508A/operations/atecc508a_encryption.o
+ .data          0x00000000        0x0 ./Src/ATECC508A/operations/atecc508a_encryption.o
+ .bss           0x00000000        0x0 ./Src/ATECC508A/operations/atecc508a_encryption.o
+ .debug_info    0x00000000       0x22 ./Src/ATECC508A/operations/atecc508a_encryption.o
+ .debug_abbrev  0x00000000       0x12 ./Src/ATECC508A/operations/atecc508a_encryption.o
+ .debug_aranges
+                0x00000000       0x18 ./Src/ATECC508A/operations/atecc508a_encryption.o
+ .debug_macro   0x00000000       0x11 ./Src/ATECC508A/operations/atecc508a_encryption.o
+ .debug_macro   0x00000000      0xaa8 ./Src/ATECC508A/operations/atecc508a_encryption.o
+ .debug_line    0x00000000       0x53 ./Src/ATECC508A/operations/atecc508a_encryption.o
+ .debug_str     0x00000000     0x2e02 ./Src/ATECC508A/operations/atecc508a_encryption.o
+ .comment       0x00000000       0x44 ./Src/ATECC508A/operations/atecc508a_encryption.o
+ .ARM.attributes
+                0x00000000       0x34 ./Src/ATECC508A/operations/atecc508a_encryption.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_key_management.o
+ .text          0x00000000        0x0 ./Src/ATECC508A/operations/atecc508a_key_management.o
+ .data          0x00000000        0x0 ./Src/ATECC508A/operations/atecc508a_key_management.o
+ .bss           0x00000000        0x0 ./Src/ATECC508A/operations/atecc508a_key_management.o
+ .debug_info    0x00000000       0x22 ./Src/ATECC508A/operations/atecc508a_key_management.o
+ .debug_abbrev  0x00000000       0x12 ./Src/ATECC508A/operations/atecc508a_key_management.o
+ .debug_aranges
+                0x00000000       0x18 ./Src/ATECC508A/operations/atecc508a_key_management.o
+ .debug_macro   0x00000000       0x11 ./Src/ATECC508A/operations/atecc508a_key_management.o
+ .debug_macro   0x00000000      0xaa8 ./Src/ATECC508A/operations/atecc508a_key_management.o
+ .debug_line    0x00000000       0x57 ./Src/ATECC508A/operations/atecc508a_key_management.o
+ .debug_str     0x00000000     0x2e06 ./Src/ATECC508A/operations/atecc508a_key_management.o
+ .comment       0x00000000       0x44 ./Src/ATECC508A/operations/atecc508a_key_management.o
+ .ARM.attributes
+                0x00000000       0x34 ./Src/ATECC508A/operations/atecc508a_key_management.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_random.o
+ .text          0x00000000        0x0 ./Src/ATECC508A/operations/atecc508a_random.o
+ .data          0x00000000        0x0 ./Src/ATECC508A/operations/atecc508a_random.o
+ .bss           0x00000000        0x0 ./Src/ATECC508A/operations/atecc508a_random.o
+ .text.ATECC508A_GenerateRandom
+                0x00000000      0x10c ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_info    0x00000000      0x2ae ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_abbrev  0x00000000      0x133 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_aranges
+                0x00000000       0x20 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_rnglists
+                0x00000000       0x14 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000      0x1c8 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000      0xaa8 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000       0x22 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000       0x8e ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000       0x51 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000      0x103 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000       0x6a ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000      0x1df ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000      0x189 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000       0x2a ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000       0x61 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000       0x43 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000       0x34 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000       0x16 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000       0x35 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000       0x16 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000       0x43 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000       0x34 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000       0x10 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000       0x58 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000       0x8e ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000       0x1c ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000      0x177 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000      0x369 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000       0x16 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000       0x29 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000       0x16 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_macro   0x00000000       0x20 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_line    0x00000000      0x6b5 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_str     0x00000000     0x74e5 ./Src/ATECC508A/operations/atecc508a_random.o
+ .comment       0x00000000       0x44 ./Src/ATECC508A/operations/atecc508a_random.o
+ .debug_frame   0x00000000       0x34 ./Src/ATECC508A/operations/atecc508a_random.o
+ .ARM.attributes
+                0x00000000       0x34 ./Src/ATECC508A/operations/atecc508a_random.o
+ .group         0x00000000        0xc ./Src/ATECC508A/operations/atecc508a_sign_verify.o
+ .text          0x00000000        0x0 ./Src/ATECC508A/operations/atecc508a_sign_verify.o
+ .data          0x00000000        0x0 ./Src/ATECC508A/operations/atecc508a_sign_verify.o
+ .bss           0x00000000        0x0 ./Src/ATECC508A/operations/atecc508a_sign_verify.o
+ .debug_info    0x00000000       0x22 ./Src/ATECC508A/operations/atecc508a_sign_verify.o
+ .debug_abbrev  0x00000000       0x12 ./Src/ATECC508A/operations/atecc508a_sign_verify.o
+ .debug_aranges
+                0x00000000       0x18 ./Src/ATECC508A/operations/atecc508a_sign_verify.o
+ .debug_macro   0x00000000       0x11 ./Src/ATECC508A/operations/atecc508a_sign_verify.o
+ .debug_macro   0x00000000      0xaa8 ./Src/ATECC508A/operations/atecc508a_sign_verify.o
+ .debug_line    0x00000000       0x54 ./Src/ATECC508A/operations/atecc508a_sign_verify.o
+ .debug_str     0x00000000     0x2e03 ./Src/ATECC508A/operations/atecc508a_sign_verify.o
+ .comment       0x00000000       0x44 ./Src/ATECC508A/operations/atecc508a_sign_verify.o
+ .ARM.attributes
+                0x00000000       0x34 ./Src/ATECC508A/operations/atecc508a_sign_verify.o
  .group         0x00000000        0xc ./Src/Drivers/I2C.o
  .group         0x00000000        0xc ./Src/Drivers/I2C.o
  .group         0x00000000        0xc ./Src/Drivers/I2C.o
@@ -538,6 +934,38 @@ Discarded input sections
  .debug_frame   0x00000000       0x28 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
  .ARM.attributes
                 0x00000000       0x34 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-exit.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .text.malloc   0x00000000       0x10 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .text.free     0x00000000       0x10 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .debug_frame   0x00000000       0x30 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .ARM.attributes
+                0x00000000       0x34 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .text.sbrk_aligned
+                0x00000000       0x44 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x100 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x00000000        0x4 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_free_list
+                0x00000000        0x4 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .debug_frame   0x00000000       0x50 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x34 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000        0xc C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000        0xc C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .debug_frame   0x00000000       0x30 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x34 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
  .text          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
  .data          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
  .bss           0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
@@ -639,6 +1067,13 @@ Discarded input sections
  .debug_frame   0x00000000       0x2c C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
  .ARM.attributes
                 0x00000000       0x34 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-readr.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x20 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x34 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
  .text          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
  .data          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
  .bss           0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-writer.o)
@@ -699,6 +1134,13 @@ Discarded input sections
  .debug_frame   0x00000000       0xb0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
  .ARM.attributes
                 0x00000000       0x34 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .text.memcpy   0x00000000       0x1c C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .debug_frame   0x00000000       0x28 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000       0x34 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
  .text          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
  .data          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
  .bss           0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
@@ -706,30 +1148,6 @@ Discarded input sections
  .debug_frame   0x00000000       0x38 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
  .ARM.attributes
                 0x00000000       0x34 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
- .text          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
- .data          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
- .bss           0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
- .text.sbrk_aligned
-                0x00000000       0x44 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
- .text._malloc_r
-                0x00000000      0x100 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
- .bss.__malloc_sbrk_start
-                0x00000000        0x4 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
- .bss.__malloc_free_list
-                0x00000000        0x4 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
- .debug_frame   0x00000000       0x50 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
- .ARM.attributes
-                0x00000000       0x34 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
- .text          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
- .data          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
- .bss           0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
- .text.__malloc_lock
-                0x00000000        0xc C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
- .text.__malloc_unlock
-                0x00000000        0xc C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
- .debug_frame   0x00000000       0x30 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
- .ARM.attributes
-                0x00000000       0x34 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
  .text          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
  .data          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
  .bss           0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
@@ -741,13 +1159,6 @@ Discarded input sections
  .debug_frame   0x00000000       0x5c C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
  .ARM.attributes
                 0x00000000       0x34 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-fflush.o)
- .text          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
- .data          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
- .bss           0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
- .text._sbrk_r  0x00000000       0x20 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
- .debug_frame   0x00000000       0x2c C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
- .ARM.attributes
-                0x00000000       0x34 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
  .text          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtend.o
  .data          0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtend.o
  .bss           0x00000000        0x0 C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtend.o
@@ -771,8 +1182,19 @@ Linker script and memory map
 LOAD C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crti.o
 LOAD C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
 LOAD C:/ST/STM32CubeIDE_1.11.2/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.100.202403111256/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
-LOAD ./Src/CryptoEngine/CMD.o
-LOAD ./Src/CryptoEngine/GRP.o
+LOAD ./Src/ATECC508A/atecc508a.o
+LOAD ./Src/ATECC508A/atecc508a_comm.o
+LOAD ./Src/ATECC508A/atecc508a_commands.o
+LOAD ./Src/ATECC508A/atecc508a_crc.o
+LOAD ./Src/ATECC508A/atecc508a_group.o
+LOAD ./Src/ATECC508A/atecc508a_packet.o
+LOAD ./Src/ATECC508A/atecc508a_utility.o
+LOAD ./Src/ATECC508A/operations/atecc508a_crypto.o
+LOAD ./Src/ATECC508A/operations/atecc508a_device_ops.o
+LOAD ./Src/ATECC508A/operations/atecc508a_encryption.o
+LOAD ./Src/ATECC508A/operations/atecc508a_key_management.o
+LOAD ./Src/ATECC508A/operations/atecc508a_random.o
+LOAD ./Src/ATECC508A/operations/atecc508a_sign_verify.o
 LOAD ./Src/Drivers/I2C.o
 LOAD ./Src/Drivers/LED.o
 LOAD ./Src/Drivers/SYSTICK.o

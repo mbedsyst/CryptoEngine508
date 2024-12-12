@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-uint8_t *stuff_packet(const Packet *packet, size_t *out_size)
+uint8_t *StuffPacket(const Packet *packet, size_t *out_size)
 {
     // Calculate total size: opcode (1) + param1 (1) + param2 (2) + data
     *out_size = 1 + 1 + 2 + packet->data_length;

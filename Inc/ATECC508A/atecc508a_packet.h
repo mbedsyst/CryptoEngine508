@@ -15,6 +15,6 @@ typedef struct
 } Packet;
 
 // Function to create a serialized packet from the Packet structure
-uint8_t *stuff_packet(const Packet *packet, size_t *out_size);
+uint8_t *StuffPacket(const Packet *packet, size_t *out_size);
 
 #endif /* ATECC508A_ATECC508A_PACKET_H_ */

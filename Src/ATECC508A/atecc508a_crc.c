@@ -20,11 +20,11 @@ uint16_t ComputeCRC16(const uint8_t *data, size_t length)
             if (CRC & 0x8000)
             {
 
-            	CRC = (crc << 1) ^ 0x8005;
+            	CRC = (CRC << 1) ^ 0x8005;
             }
             else
             {
-            	CRC = crc << 1;
+            	CRC = CRC << 1;
             }
         }
     }
