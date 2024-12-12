@@ -1,9 +1,11 @@
 #include "ATECC508A/atecc508a_crc.h"
 
-/* CRC-16 Polynomial: 0x8005
- * 					  0b1000 0000 0000 0101
- * */
 
+/* This function calculates a CRC-16 value for a given data array based on the
+ * polynomial x^16 + x^15 + x^2 + 1. The CRC is used to verify data integrity.
+ * CRC-16 Polynomial (Hex):     0x8005
+ * CRC-16 Polynomial (Binary):  0b1000 0000 0000 0101
+ */
 uint16_t ComputeCRC16(const uint8_t *data, size_t length)
 {
 	 // Initial value of the CRC code

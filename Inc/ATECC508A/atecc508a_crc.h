@@ -4,7 +4,23 @@
 #include <stdint.h>
 #include <stddef.h>
 
-// Function to calculate CRC-16
+/**
+ * @brief Computes the 16-bit CRC of a data buffer using the 0x8005 polynomial.
+ *
+ * @param data Pointer to the data buffer to be processed.
+ * @param length The number of bytes in the data buffer.
+ *
+ * @return The computed 16-bit CRC value.
+ */
+
 uint16_t ComputeCRC16(const uint8_t *data, size_t length);
 
 #endif
+
+/**
+ * @brief
+ * @param
+ * @param
+ *
+ * @return
+ */

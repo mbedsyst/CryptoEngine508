@@ -1,7 +1,11 @@
 #include "ATECC508A/atecc508a_utility.h"
 #include "Drivers/I2C.h"
 
+// ATECC508A I2C Device Address
 #define ATECC508A_I2C_ADDRESS 0xC0
+
+/* Function to Send Group of bytes to the Slave device
+ */
 
 int WriteCommand(const uint8_t *group_data, size_t group_size)
 {
@@ -21,6 +25,8 @@ int WriteCommand(const uint8_t *group_data, size_t group_size)
     return 0;
 }
 
+/* Function to Receive bytes of data from the Slave Device
+ */
 int ReadResponse(uint8_t *response, size_t response_size)
 {
     if (!response || response_size == 0)
