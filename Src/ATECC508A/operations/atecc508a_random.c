@@ -53,12 +53,12 @@ int ATECC508A_GenerateRandom(uint8_t *random_number)
     free(group_data);
 
     uint8_t response[35] = {0};
-    if (read_response(response, sizeof(response)) != 0)
+    if (ReadResponse(response, sizeof(response)) != 0)
     {
         return -5;
     }
 
-    uint16_t calculated_crc = calculate_crc(response, sizeof(response) - 2);
+    uint16_t calculated_crc = ComputeCRC16(response, sizeof(response) - 2);
     uint16_t response_crc = (response[33] | (response[34] << 8));
     if (calculated_crc != response_crc)
     {

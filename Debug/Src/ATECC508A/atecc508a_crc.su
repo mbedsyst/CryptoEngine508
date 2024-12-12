@@ -1,1 +1,1 @@
-../Src/ATECC508A/atecc508a_crc.c:7:10:ComputeCRC16	24	static
+../Src/ATECC508A/atecc508a_crc.c:9:10:ComputeCRC16	24	static
